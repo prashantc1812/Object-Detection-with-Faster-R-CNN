@@ -120,9 +120,4 @@ $$||box\ - \hat{box}||^2 = (y_{min} - \hat{y}_{min})^2 + (y_{max} - \hat{y}_{max
 
 <br>
 
-<h2>Contact Me</h2>
 
-If you have something to say to me please contact me: 
-
- - Twitter: [Doguilmak](https://twitter.com/Doguilmak)  
- - Mail address: doguilmak@gmail.com
